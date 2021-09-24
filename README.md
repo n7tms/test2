@@ -44,4 +44,17 @@ git commit -m "[description]"
 git push -u origin main
 ```
 
+## Clone Repository
+Pull the repository to the local system.  
+Make changes as normal.  
+Then follow the Update Files section above to push the changes back to the GitHub repository.
+```
+git clone https://github.com/n7tms/[repository name].git
+```
+
+## Update Local Repository
+```
+git pull origin main
+```
+
 

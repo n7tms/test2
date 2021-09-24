@@ -1,6 +1,8 @@
 ;; Advent of Code 2020
 ;; Day 2
 
+; Again, many thanks to Fred Overflow for the "tutorial"
+
 (ns aoc2020-2.core
   (:gen-class)
   (:require [clojure.string :as str]
