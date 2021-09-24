@@ -37,4 +37,11 @@ git remote add origin https://github.com/n7tms/[repository name].git
 git push -u origin main
 ```
 
+==Update Files==
+```
+git add .    (or a specific file to add or update)
+git commit -m "[description]"
+git push -u origin main
+```
+
 
