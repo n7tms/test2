@@ -23,8 +23,8 @@ sudo apt install gh
 ```
 gh auth login
 ```
-When prompted for your preferred protocol, select HTTPS.
-When asked if you would like to authenticate to Git with your GitHub credentials, enter Y.
+When prompted for your preferred protocol, select HTTPS.  
+When asked if you would like to authenticate to Git with your GitHub credentials, enter `Y`.
 
 ## Add Remote Repository
 ```
