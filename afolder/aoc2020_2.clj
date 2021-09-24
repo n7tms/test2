@@ -1,3 +1,6 @@
+;; Advent of Code 2020
+;; Day 2
+
 (ns aoc2020-2.core
   (:gen-class)
   (:require [clojure.string :as str]
