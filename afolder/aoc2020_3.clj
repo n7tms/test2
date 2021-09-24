@@ -1,7 +1,17 @@
+;; Advent of Code 2020
+;; Day 3
+;
+; I am not actually competing in AoC. Rather, I am using AoC as a
+; mechanism to learn clojure. I have found the attempting solutions
+; on my own and then following Fred Overflow's walk-thru on YouTube
+; has been most beneficial in learning and expanding my clojure 
+; knowledge.
+
 (ns aoc2020-3.core
   (:gen-class)
   (:require [clojure.string :as str]
             [clojure.java.io :as io]))
+
 
 ;; Sample terrain
 ; ..##.......
