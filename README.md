@@ -27,4 +27,14 @@ When prompted for your preferred protocol, select HTTPS.
 When asked if you would like to authenticate to Git with your GitHub credentials, enter Y.
 
 == Add Remote Repository ==
+```
+echo "# [repository name]" >> READMEmd
+git init
+git add README.md   (or git add .)
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/n7tms/[repository name].git
+git push -u origin main
+```
+
 
