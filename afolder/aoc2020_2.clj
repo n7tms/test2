@@ -1,10 +1,8 @@
 ;; Advent of Code 2020
 ;; Day 2
 
-; Again, many thanks to Fred Overflow for the "tutorial"
-;; I made a change here to play with magit.
-;; another change just for good measure
-
+;; Again, many thanks to Fred Overflow for the "tutorial"
+;; (back the way it was.)
 
 (ns aoc2020-2.core
   (:gen-class)
