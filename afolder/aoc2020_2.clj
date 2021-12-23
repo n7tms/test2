@@ -3,6 +3,8 @@
 
 ; Again, many thanks to Fred Overflow for the "tutorial"
 ;; I made a change here to play with magit.
+;; another change just for good measure
+
 
 (ns aoc2020-2.core
   (:gen-class)
