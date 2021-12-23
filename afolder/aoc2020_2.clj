@@ -2,6 +2,7 @@
 ;; Day 2
 
 ; Again, many thanks to Fred Overflow for the "tutorial"
+;; I made a change here to play with magit.
 
 (ns aoc2020-2.core
   (:gen-class)
