@@ -56,5 +56,7 @@ git clone https://github.com/n7tms/[repository name].git
 ```
 git pull origin main
 ```
-
+  
+## Magit  
+Use magit in emacs to manage the git repository.  
 
