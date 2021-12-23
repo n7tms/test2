@@ -5,7 +5,7 @@
 ; mechanism to learn clojure. I have found the attempting solutions
 ; on my own and then following Fred Overflow's walk-thru on YouTube
 ; has been most beneficial in learning and expanding my clojure 
-; knowledge.
+; knowledge..
 
 (ns aoc2020-3.core
   (:gen-class)
